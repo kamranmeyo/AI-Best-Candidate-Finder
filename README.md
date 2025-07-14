@@ -2,6 +2,19 @@
 
 An AI-powered tool that helps streamline the hiring process by identifying the best candidates based on job descriptions and submitted CVs.
 
+---
+
+![App Screenshot](assets/Screenshot1.png)
+
+---
+
+---
+
+![App Screenshot](assets/Screenshot2.png)
+
+---
+
+
 ## 🚀 Features / How it Works
 
 1. **Upload Job Description (JD)**  
