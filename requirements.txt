@@ -1,0 +1,9 @@
+scikit-learn
+sentence-transformers
+pdfplumber
+python-docx
+flask
+flask-bootstrap
+pandas
+openpyxl
+fpdf
